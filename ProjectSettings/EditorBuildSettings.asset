@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
+    path: Assets/SimpleProcedualSkyBox/Scenes/SkyboxTest.unity
+    guid: c27a3185139009e48b050f5ded630021
   m_configObjects: {}
